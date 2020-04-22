@@ -12,7 +12,7 @@
 
     <groupId>thinking-in-spring-boot</groupId>
     <artifactId>formatter-spring-boot-starter</artifactId>
-    <name>《Spring Boot 编程思想》Spring Boot 2.0 示例工程 - 走向自动配置 - 对象格式化 Spring Boot Starter</name>
+    <name>Spring Boot 2.0 示例工程 - 走向自动配置 - 对象格式化 Spring Boot Starter</name>
 
     <dependencies>
 

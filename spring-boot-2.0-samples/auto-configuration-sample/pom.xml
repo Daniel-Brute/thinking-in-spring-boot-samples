@@ -11,7 +11,7 @@
 
     <groupId>thinking-in-spring-boot</groupId>
     <artifactId>auto-configuration-sample</artifactId>
-    <name>《Spring Boot 编程思想》Spring Boot 2.0 示例工程 - 走向自动配置</name>
+    <name>Spring Boot 2.0 示例工程 - 走向自动配置</name>
 
     <dependencies>
         <!-- Spring Boot 基础依赖 -->

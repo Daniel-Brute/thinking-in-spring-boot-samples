@@ -11,7 +11,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <artifactId>spring-framework-3.2.x-sample</artifactId>
-    <name>《Spring Boot 编程思想》Spring Framework 3.2.x 示例工程</name>
+    <name>Spring Framework 3.2.x 示例工程</name>
 
     <properties>
         <!-- Spring 3.x 最新发布版本 -->

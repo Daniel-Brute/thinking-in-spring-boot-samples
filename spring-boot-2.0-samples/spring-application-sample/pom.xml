@@ -12,7 +12,7 @@
 
     <groupId>thinking-in-spring-boot</groupId>
     <artifactId>spring-application-sample</artifactId>
-    <name>《Spring Boot 编程思想》Spring Boot 2.0 示例工程 - 理解 SpringApplication</name>
+    <name>Spring Boot 2.0 示例工程 - 理解 SpringApplication</name>
 
     <dependencies>
 

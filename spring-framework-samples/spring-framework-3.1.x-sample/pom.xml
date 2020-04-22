@@ -12,7 +12,7 @@
     <groupId>thinking-in-spring-boot</groupId>
     <artifactId>spring-framework-3.1.x-sample</artifactId>
 
-    <name>《Spring Boot 编程思想》Spring Framework 3.1.x 示例工程</name>
+    <name>Spring Framework 3.1.x 示例工程</name>
 
     <properties>
         <!-- Spring 3.1 最新发布版本 -->

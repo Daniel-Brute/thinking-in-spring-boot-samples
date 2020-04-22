@@ -11,7 +11,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <artifactId>spring-boot-1.5.x-project</artifactId>
-    <name>《Spring Boot 编程思想》Spring Boot 1.5.x 示例工程</name>
+    <name>Spring Boot 1.5.x 示例工程</name>
 
 
     <dependencies>
