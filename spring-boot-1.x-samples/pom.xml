@@ -21,7 +21,7 @@
     </modules>
 
     <artifactId>spring-boot-1.x-samples</artifactId>
-    <name>《Spring Boot 编程思想》Spring Boot 1.x 示例主工程</name>
+    <name>Spring Boot 1.x 示例主工程</name>
 
     <properties>
         <spring-boot.version>1.5.10.RELEASE</spring-boot.version>

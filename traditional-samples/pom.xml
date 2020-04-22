@@ -12,7 +12,7 @@
 
     <artifactId>traditional-samples</artifactId>
     <packaging>pom</packaging>
-    <name>《Spring Boot 编程思想》传统示例工程</name>
+    <name>传统示例工程</name>
     <modules>
         <module>servlet-sample</module>
     </modules>

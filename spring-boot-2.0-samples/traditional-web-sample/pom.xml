@@ -12,7 +12,7 @@
 
     <artifactId>traditional-web-sample</artifactId>
     <packaging>war</packaging>
-    <name>《Spring Boot 编程思想》Spring Boot 2.0 应用部署到传统 Servlet 容器示例</name>
+    <name>Spring Boot 2.0 应用部署到传统 Servlet 容器示例</name>
 
     <dependencies>
 
